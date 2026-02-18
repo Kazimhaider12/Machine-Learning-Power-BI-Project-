@@ -52,6 +52,8 @@ Power BI Dashboard: Data visualization, risk analysis, actionable business insig
 
 <img width="1177" height="778" alt="P1" src="https://github.com/user-attachments/assets/5aefaafd-0ba7-4561-bf48-1cb5c2a5c017" />
 <img width="1169" height="775" alt="P2" src="https://github.com/user-attachments/assets/b9262dbb-8673-4afe-a02c-8ce88d378f04" />
+Streamlit view: 
+<img width="1861" height="856" alt="P3" src="https://github.com/user-attachments/assets/607413b8-cf4e-4d97-9a3e-b142fcec0195" />
 
 
 🎯 Key Takeaways
